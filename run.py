@@ -1,1 +1,1 @@
-import fuckoff2
+import insta_in
